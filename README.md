@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diveyez
+- 👀 I’m interested in audio, astrophysics, gaming, programming in that order.
+- 🌱 I’m currently studying at Full Sail University.
+- 💞️ I’m looking to collaborate on projects that have a media form or interactive ui, I would love to do some sound design.
+- 📫 How to reach me div3y3z@gmail.com
