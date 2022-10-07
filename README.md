@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diveyez
+- 👋 Hi, I’m @diveyez (R. Neff)
 - 👀 I’m interested in audio, astrophysics, gaming, programming in that order.
 - 🌱 I’m currently studying at Full Sail University.
 - 💞️ I’m looking to collaborate on projects that have a media form or interactive ui, I would love to do some sound design.
